@@ -1,0 +1,12 @@
+*.a
+*.o
+*.bin
+*.depend
+
+board/samsung/smdkc210/lowlevel_init.S
+cpu/arm_cortexa9/s5pc210/cpu_init.S
+System.map
+u-boot
+u-boot.lds
+u-boot.map
+u-boot.srec

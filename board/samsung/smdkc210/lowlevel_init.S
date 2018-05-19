@@ -1,1 +1,0 @@
-/root/iTop4412_uboot/board/samsung/smdkc210/lowlevel_init_POP.S
