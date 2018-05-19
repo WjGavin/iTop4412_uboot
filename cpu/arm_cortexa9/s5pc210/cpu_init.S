@@ -1,0 +1,1 @@
+/root/iTop4412_uboot/cpu/arm_cortexa9/s5pc210/cpu_init_POP.S
